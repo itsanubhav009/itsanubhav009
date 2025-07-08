@@ -1,232 +1,195 @@
+<!-- HEADER SECTION WITH ADVANCED ANIMATION -->
 <div align="center">
+  <!-- Animated Holographic Name Badge with Glitch Effect -->
+  <a href="https://github.com/itsanubhav009">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=50&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=100&lines=.%2F%2F+ANUBHAV+GUPTA+%2F%2F.;SOFTWARE+ARCHITECT+%7C+C%2B%2B+EXPERT" alt="Animated Name" />
+  </a>
   
-  <!-- Animated Header with Retro Tech Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=64F6EC&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Anubhav;Software+Developer;C%2B%2B+Networking+Expert;MERN+Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
-  
-  <!-- Retro Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Building%20The%20Future&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" />
+  <!-- Dynamic 3D Header with Motion Effects -->
+  <a href="https://github.com/itsanubhav009">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="3D Animation" />
+  </a>
+</div>
 
-  <!-- Profile Views Counter with Retro Badge -->
-  <img src="https://komarev.com/ghpvc/?username=itsanubhav009&label=Profile%20views&color=ff69b4&style=plastic" alt="itsanubhav009" />
+<!-- REALTIME STATUS INDICATORS -->
+<div align="center">
+  <!-- Live Status Indicators with Animations -->
+  <a href="https://github.com/itsanubhav009">
+    <img src="https://img.shields.io/badge/Last%20Updated-2025--07--08-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Last Updated" />
+  </a>
+  <!-- Live Location Indicator with Animation -->
+  <a href="https://github.com/itsanubhav009">
+    <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=000000" alt="Location" />
+  </a>
+  <!-- Streak Status with Animation -->
+  <a href="https://github.com/itsanubhav009">
+    <img src="https://streak-stats.demolab.com?user=itsanubhav009&theme=highcontrast&hide_border=true&background=000000&fire=FF0000&ring=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF" alt="GitHub Streak" />
+  </a>
+</div>
+
+<!-- ANIMATED INTRO SECTION WITH PARTICLE EFFECT BACKGROUND -->
+<div align="center">
+  <!-- 3D Terminal Introduction with Typing Effect -->
+  <a href="#"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"></a>
+  <a href="https://github.com/itsanubhav009">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Animated Terminal" />
+  </a>
+  <br><br>
+  <!-- ANIMATED ROTATING TEXT -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🔭+Currently+working+on+MCP+Server;🌱+Learning+DevOps+and+AI+Agents;👯+Looking+to+collaborate+on+open-source;💬+Ask+me+about+C++,+MERN,+Vue;⚡+Fun+fact:+I+code+while+listening+to+synthwave&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  </p>
+</div>
+
+<!-- ANIMATED TECH STACK WITH HOVER EFFECTS -->
+<div align="center">
+  <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></a>
+  <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Skill" width="30" /> Tech Arsenal</h2>
   
-  <!-- Social Media Quick Links with Neon Effect -->
-  <div>
-    <a href="https://twitter.com/anubhav64511607">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <!-- ANIMATED LANGUAGE AND FRAMEWORK ICONS WITH NEON GLOW EFFECT -->
+  <p align="center">
+    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="80">
+    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="80">
+    <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="80">
+    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80">
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
+  </p>
+</div>
+
+<!-- HEATMAP CALENDAR WITH 3D EFFECT -->
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> Heat Signature</h2>
+
+<div align="center">
+  <!-- ANIMATED 3D CONTRIBUTION CALENDAR -->
+  <a href="https://github.com/itsanubhav009">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsanubhav009&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak" />
+  </a>
+  
+  <!-- ISOMETRIC CONTRIBUTION CALENDAR -->
+  <a href="https://github.com/itsanubhav009">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsanubhav009/itsanubhav009/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsanubhav009/itsanubhav009/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/itsanubhav009/itsanubhav009/output/github-contribution-grid-snake.svg" />
+    </picture>
+  </a>
+  
+  <!-- 3D CONTRIBUTION METRICS -->
+  <a href="https://github.com/itsanubhav009/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsanubhav009&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="95%" alt="Contribution Graph" />
+  </a>
+</div>
+
+<!-- PROJECT SECTION WITH 3D CARDS AND HOVER EFFECTS -->
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122065-408d2b39-c499-4b33-bdae-1c1d8091f8c4.png" alt="Rocket" width="30" /> Signature Projects</h2>
+
+<div align="center">
+  <!-- ANIMATED PROJECT CARDS WITH HOLOGRAPHIC EFFECT -->
+  <a href="https://github.com/itsanubhav009/mcp-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsanubhav009&repo=mcp-server&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=ff00ff&text_color=8B949E" width="47%" />
+  </a>
+  <!-- ADD MORE PROJECTS AS NEEDED -->
+  
+  <!-- ANIMATED CODING METRICS WITH HOLOGRAPHIC EFFECT -->
+  <a href="https://wakatime.com/@itsanubhav009">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsanubhav009&theme=midnight-purple&hide_border=true&bg_color=0D1117&layout=compact" width="47%" alt="Wakatime Stats" />
+  </a>
+</div>
+
+<!-- ADVANCED METRICS AND VISUALIZATIONS WITH ANIMATIONS -->
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6131c.png" alt="Stats" width="30" /> Performance Metrics</h2>
+
+<div align="center">
+  <!-- ANIMATED PROFILE METRICS WITH 3D EFFECT -->
+  <a href="https://github.com/itsanubhav009">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsanubhav009&theme=radical" width="100%" />
+  </a>
+  
+  <div style="display: flex; justify-content: space-between;">
+    <!-- ANIMATED LANGUAGE STATS WITH NEON GLOW -->
+    <a href="https://github.com/itsanubhav009">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsanubhav009&theme=radical" width="49%" />
     </a>
-    <a href="https://www.linkedin.com/in/anubhavgupta007">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:anubhav22717@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <!-- ANIMATED PRODUCTIVE TIME WITH CLOCK VISUALIZATION -->
+    <a href="https://github.com/itsanubhav009">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsanubhav009&theme=radical" width="49%" />
     </a>
   </div>
-</div>
-
-<!-- Tech-themed divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- About me section with animation -->
-<h2 align="center">👨‍💻 About Me</h2>
-
-<img align="right" height="250" width="375" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
-
-- 🔭 Currently building [MCP Server](https://github.com/itsanubhav009/mcp-server): A multi-client real-time chat server with user authentication over TCP
-
-- 🌱 Learning **DevOps (Jenkins, Docker, K8s), LangChain, advanced AI agents, and C++ multi-threading**
-
-- 👯 Looking to collaborate on **Open-source tools for developer productivity**
-
-- 🤝 Seeking help with **CI/CD deployment best practices**
-
-- 💬 Ask me about **React, Vue, GSAP, C++ networking, Socket programming, MongoDB, Express, Node.js**
-
-- 📫 Reach me at **anubhav22717@gmail.com**
-
-<!-- Tech-themed divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-<!-- Current Projects with Retro Cards -->
-<h2 align="center">🔨 Current Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/itsanubhav009/mcp-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsanubhav009&repo=mcp-server&theme=synthwave" alt="MCP Server" />
-  </a>
-  <!-- Add more project cards as needed -->
-</div>
-
-<!-- Tech-themed divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- Tech Stack with organized categories and animations -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<details open>
-  <summary><b>🔄 Programming Languages</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🌐 Frontend Technologies</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🔙 Backend Development</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🗄️ Database Technologies</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  </p>
-</details>
-
-<details>
-  <summary><b>☁️ DevOps & Cloud</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
-    <img src="https://img.shields.io/badge/Circle_CI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
-    <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white" alt="TravisCI" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🔮 AI & Machine Learning</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-    <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🎨 Design & Others</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </p>
-</details>
-
-<!-- Tech-themed divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-<!-- GitHub Stats with Retro Theme -->
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsanubhav009&show_icons=true&theme=synthwave" alt="Anubhav's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsanubhav009&theme=synthwave" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanubhav009&layout=compact&theme=synthwave" alt="Top Languages" />
-</div>
-
-<!-- Animated Retro Trophy Display -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsanubhav009&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<!-- Tech-themed divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- Connect with me section with retro-wave theme -->
-<h2 align="center">🔌 Connect With Me</h2>
-
-<div align="center">
-  <a href="https://codepen.io/anubhav-the-typescripter" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
-  </a>
-  <a href="https://dev.to/dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://twitter.com/anubhav64511607" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/anubhavgupta007" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/30946905/anubhav" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://codesandbox.io/u/itsanubhav009" target="_blank">
-    <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
-  </a>
-  <a href="https://www.kaggle.com/itsanubhav009" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://hashnode.com/@itsanubhav007" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
-  </a>
-  <a href="https://medium.com/@anubhav22717" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.leetcode.com/u/anubhav22717/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://discord.gg/discordapp.com/users/anubhav_56214" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  
+  <!-- 3D TROPHY DISPLAY WITH HOLOGRAPHIC EFFECT -->
+  <a href="https://github.com/itsanubhav009">
+    <img src="https://github-profile-trophy.vercel.app/?username=itsanubhav009&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" />
   </a>
 </div>
 
-<!-- Animated Footer with Retro Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=80" width="100%" />
-
-<!-- Spotify Now Playing with Retro Theme -->
+<!-- SPOTIFY INTEGRATION WITH VISUALIZER -->
 <div align="center">
+  <h2><img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-80843c05fc71.png" alt="Music" width="30" /> Soundtrack</h2>
+  
+  <!-- ANIMATED SPOTIFY NOW PLAYING WITH VISUALIZER -->
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify" />
   </a>
+</div>
+
+<!-- CONNECT SECTION WITH ANIMATED SOCIAL ICONS -->
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Network" width="30" /> Comm Channels</h2>
+
+<div align="center">
+  <!-- ANIMATED SOCIAL LINKS WITH HOVER EFFECTS -->
+  <a href="https://linkedin.com/in/anubhavgupta007">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/anubhav64511607">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" alt="Twitter" />
+  </a>
+  <a href="mailto:anubhav22717@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-408d2b39-c499-4b33-bdae-1c1d8091f8c4.png" width="90" alt="Email" />
+  </a>
+  <a href="https://discord.gg/discordapp.com/users/anubhav_56214">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" alt="Discord" />
+  </a>
+  <a href="https://medium.com/@anubhav22717">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" alt="Medium" />
+  </a>
+</div>
+
+<!-- BLOG POSTS WITH ANIMATED CARDS -->
+<div align="center">
+  <h2><img src="https://user-images.githubusercontent.com/74038190/216121984-c9b6b095-c7ad-439f-a219-53412cdcc54a.png" alt="Blog" width="30" /> Latest Transmissions</h2>
+  
+  <!-- ANIMATED BLOG POST LIST WITH AUTO-UPDATE -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- Will be automatically populated with your latest blog posts -->
+  <!-- BLOG-POST-LIST:END -->
+  
+  <p><a href="https://medium.com/@anubhav22717"><img src="https://img.shields.io/badge/Read%20More%20Posts-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read More" /></a></p>
+</div>
+
+<!-- ANIMATED FOOTER WITH SOUND VISUALIZER EFFECT -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Signal%20Terminated&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=FFFFFF" width="100%" />
+  
+  <!-- RETRO VISITOR COUNTER WITH ANIMATION -->
+  <p>Visitor Count Since 2025-07-08</p>
+  <img src="https://profile-counter.glitch.me/itsanubhav009/count.svg" alt="Visitor Count" />
+  
+  <!-- ANIMATED KEYBOARD EFFECT -->
+  <a href="https://github.com/itsanubhav009">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" />
+  </a>
+</div>
+
+<!-- CUSTOM ANIMATED FOOTER WITH CYBERPUNK THEME -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462e35981.gif" width="200" />
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462e35981.gif" width="200" />
 </div>
