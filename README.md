@@ -279,9 +279,10 @@
     <!-- Git Command Animation -->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=40&lines=git+log+--graph+--oneline+--all+--date-order" alt="Git Command"/></a>
     
-    <!-- CRT Screen Animation -->
-    <img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp" width="400">
-  </div>
+    
+   <div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="CRT Screen Animation"/>
+</div>
 </div>
 
 <div align="center">
